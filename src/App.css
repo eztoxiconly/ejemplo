@@ -1,0 +1,27 @@
+
+.divNumero{
+  display: flex;
+  justify-content: center;
+  height: 30vh;
+  width: 100%;
+  align-items: center;
+}
+
+.numero{
+  display: flex;
+  height: 100%;
+  width: 30%;
+  background-color: purple;
+  border: 10px solid red;
+  align-items: center;
+  justify-content: center;
+  font-size: 50px;
+}
+
+.botones{
+  display: flex;
+  justify-content: center;
+  height: 30vh;
+  width: 100%;
+  align-items: center;
+}
