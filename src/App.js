@@ -23,7 +23,7 @@ function App() {
       
       <div className="botones">
 
-        <Boton texto="Contar clic" 
+        <Boton texto="Contar clicsfdjknsjfs" 
         esBotonDeClic={true} 
         manejarClic ={manejarClic}/>
         
